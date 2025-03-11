@@ -1,0 +1,47 @@
+/* Estilo personalizado */
+.content-wrapper {
+    background-color: #f4f6f9;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0 1px rgba(0,0,0,.125), 0 1px 3px rgba(0,0,0,.2);
+    margin-bottom: 1rem;
+}
+
+.card-header {
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    background-color: transparent;
+}
+
+.table thead th {
+    border-top: none;
+    border-bottom: 2px solid #dee2e6;
+    font-weight: 600;
+}
+
+.btn {
+    font-weight: 400;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #006fe6;
+}
+
+.alert {
+    margin-bottom: 1rem;
+}
+
+/* Melhorar aparência do sidebar */
+.sidebar-dark-primary {
+    background-color: #343a40;
+}
+
+.nav-sidebar .nav-link {
+    padding: .7rem 1rem;
+}
+
+.nav-sidebar .nav-link p {
+    font-size: 14px;
+}

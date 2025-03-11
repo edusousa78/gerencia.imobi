@@ -1,0 +1,32 @@
+MÓDULO LOCAÇÕES - PENDÊNCIAS:
+1. Corrigir listagem de locações
+   - Ajustar queries no LocacaoModel
+   - Verificar relacionamentos na tabela clientes_locacoes
+
+2. Ajustar formulário de cadastro
+   - Implementar seleção de locador/locatário
+   - Adicionar campos de valores e garantias
+
+3. Implementar contratos
+   - Finalizar geração de PDF
+   - Adicionar envio por email
+
+4. Banco de Dados
+   - Executar migrations pendentes
+   - Verificar índices das tabelas
+MÓDULO LOCAÇÕES - PENDÊNCIAS:
+1. Corrigir listagem de locações
+   - Ajustar queries no LocacaoModel
+   - Verificar relacionamentos na tabela clientes_locacoes
+
+2. Ajustar formulário de cadastro
+   - Implementar seleção de locador/locatário
+   - Adicionar campos de valores e garantias
+
+3. Implementar contratos
+   - Finalizar geração de PDF
+   - Adicionar envio por email
+
+4. Banco de Dados
+   - Executar migrations pendentes
+   - Verificar índices das tabelas
